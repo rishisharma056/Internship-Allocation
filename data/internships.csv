@@ -1,0 +1,11 @@
+internship_id,organization_name,location,sector,required_skills,capacity
+07cb7224,Org_0,Mumbai,Energy,"Java,Machine Learning",5
+c6b6c663,Org_1,Kolkata,Finance,"Networking,SQL,Java",9
+5ef1e039,Org_2,Lucknow,IT,"Networking,Web Dev",10
+55699852,Org_3,Bangalore,Education,"Networking,AI,Data Analysis,Web Dev",3
+ac48ef57,Org_4,Jaipur,Energy,"Networking,C++,Data Analysis,Web Dev",4
+529d4b26,Org_5,Chennai,Education,"Python,Networking,AI",7
+8c5023bf,Org_6,Patna,Energy,"SQL,Java,Web Dev",10
+88714727,Org_7,Delhi,Education,"Java,Machine Learning,Python,SQL",3
+b8a52432,Org_8,Delhi,IT,"Networking,Java,Cloud",5
+426a32a8,Org_9,Bangalore,IT,"SQL,C++",8
