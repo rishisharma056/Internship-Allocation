@@ -20,7 +20,7 @@ The prototype includes:
 
 ## 📂 Project Structure
 ```
-pm_internship_allocation/
+internship_allocation/
 ├── data/               # datasets (CSV)
 ├── matching_engine/    # ML + solver logic
 ├── api/                # FastAPI backend
@@ -41,7 +41,7 @@ pm_internship_allocation/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/pm_internship_allocation.git
-cd pm_internship_allocation
+cd internship_allocation
 ```
 
 ### 2. Backend (Python + FastAPI)
