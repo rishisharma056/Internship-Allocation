@@ -1,0 +1,51 @@
+candidate_id,name,age,gender,social_category,district,education_level,gpa,skills,sector_interests,location_preferences,willing_to_relocate,past_participation
+10c589e9,Candidate_10c589e9,25,Female,OBC,Lucknow,Masters,6.04,"Cloud,Machine Learning,SQL,C++","Energy,Education",Lucknow,1,1
+357dbe0c,Candidate_357dbe0c,21,Female,ST,Kolkata,Masters,9.01,"C++,AI",Healthcare,Patna,0,0
+e0d9eca7,Candidate_e0d9eca7,24,Female,General,Delhi,Diploma,9.38,"Python,Web Dev,Networking,Machine Learning","IT,Healthcare",Jaipur,0,0
+bb83e8ae,Candidate_bb83e8ae,25,Female,SC,Lucknow,Masters,7.69,"Cloud,AI",Healthcare,Mumbai,0,1
+891fe0b6,Candidate_891fe0b6,22,Male,SC,Mumbai,Diploma,7.11,"Python,C++,AI,Web Dev,Data Analysis",IT,Bangalore,0,1
+a69bd03f,Candidate_a69bd03f,25,Male,SC,Patna,Masters,7.33,"C++,AI,Python,SQL,Java",Energy,Kolkata,0,0
+b9110b75,Candidate_b9110b75,25,Male,General,Jaipur,Diploma,6.09,"Machine Learning,C++","IT,Finance",Mumbai,1,0
+4ee9b60b,Candidate_4ee9b60b,25,Male,General,Mumbai,Diploma,9.21,"Java,Networking",Finance,Mumbai,0,0
+e372415e,Candidate_e372415e,22,Male,General,Mumbai,Diploma,9.41,"AI,Networking,Cloud",Healthcare,Chennai,0,1
+898a5725,Candidate_898a5725,20,Male,SC,Patna,Masters,8.62,"C++,Data Analysis,Python","Healthcare,IT",Mumbai,0,1
+57de219b,Candidate_57de219b,23,Male,General,Jaipur,Masters,6.93,"Cloud,AI,Data Analysis,SQL","Healthcare,IT",Bangalore,1,0
+df9f2db0,Candidate_df9f2db0,21,Male,General,Delhi,Masters,8.24,"Machine Learning,Data Analysis,Networking,AI","IT,Healthcare",Delhi,0,1
+18290031,Candidate_18290031,20,Male,OBC,Mumbai,Bachelors,6.5,"AI,Data Analysis,Java","Energy,Education",Jaipur,0,1
+905c4b50,Candidate_905c4b50,23,Female,OBC,Patna,Diploma,7.14,"Cloud,Python,Web Dev",Energy,Bangalore,0,1
+017b44cb,Candidate_017b44cb,20,Female,General,Chennai,Masters,8.82,"Cloud,Java,Web Dev,Data Analysis,SQL","Education,Energy",Jaipur,1,1
+4e60cf7f,Candidate_4e60cf7f,23,Female,OBC,Bangalore,Masters,7.43,"Java,Data Analysis",Education,Delhi,1,1
+da0cbf3c,Candidate_da0cbf3c,19,Male,SC,Patna,Bachelors,6.93,"SQL,Cloud",IT,Lucknow,0,0
+196f1868,Candidate_196f1868,22,Female,SC,Mumbai,Bachelors,6.63,"Machine Learning,Python",IT,Patna,0,0
+6dd11c01,Candidate_6dd11c01,20,Male,General,Delhi,Masters,8.54,"Cloud,Java","Healthcare,Education",Chennai,0,0
+0e22198c,Candidate_0e22198c,24,Male,ST,Bangalore,Masters,9.1,"Data Analysis,C++,Cloud,Web Dev","Finance,IT",Jaipur,1,0
+b599f658,Candidate_b599f658,19,Male,OBC,Delhi,Masters,7.83,"Python,Web Dev,Cloud,Data Analysis,Networking",Healthcare,Patna,1,1
+b296d972,Candidate_b296d972,20,Female,OBC,Lucknow,Masters,6.99,"Data Analysis,Web Dev,Machine Learning,AI,SQL",Education,Bangalore,1,0
+01cf1b47,Candidate_01cf1b47,22,Female,SC,Jaipur,Bachelors,7.53,"Data Analysis,AI,Networking,Machine Learning",Healthcare,Kolkata,1,0
+99917c91,Candidate_99917c91,22,Male,General,Bangalore,Diploma,9.75,"SQL,Java","Finance,Energy",Lucknow,0,0
+311c87e3,Candidate_311c87e3,18,Female,OBC,Bangalore,Diploma,7.0,"Web Dev,SQL","Education,IT",Delhi,0,1
+6663d37a,Candidate_6663d37a,18,Female,General,Chennai,Masters,7.45,"Cloud,C++","IT,Finance",Mumbai,1,0
+d3ea75b8,Candidate_d3ea75b8,22,Female,General,Chennai,Bachelors,9.06,"Web Dev,Networking,Machine Learning,Java","Finance,Energy",Lucknow,1,0
+17ba332b,Candidate_17ba332b,22,Male,OBC,Mumbai,Bachelors,9.82,"SQL,C++,Python,Data Analysis","Energy,IT",Lucknow,1,1
+df03babe,Candidate_df03babe,21,Male,OBC,Patna,Bachelors,9.53,"Data Analysis,SQL,AI,Web Dev,Cloud",Finance,Lucknow,1,1
+bf35f9fe,Candidate_bf35f9fe,20,Male,SC,Delhi,Masters,9.26,"Python,Cloud",Education,Delhi,0,1
+a892998a,Candidate_a892998a,23,Male,General,Kolkata,Masters,8.23,"SQL,C++,Java,Python","IT,Healthcare",Kolkata,1,0
+939b3675,Candidate_939b3675,23,Female,General,Mumbai,Bachelors,9.46,"SQL,Java,Python,Data Analysis",Finance,Mumbai,1,0
+ea6ae34e,Candidate_ea6ae34e,24,Male,SC,Patna,Masters,7.96,"Machine Learning,Web Dev","Finance,Healthcare",Patna,1,1
+851c7a0d,Candidate_851c7a0d,20,Female,ST,Lucknow,Masters,8.11,"C++,SQL,Data Analysis,Networking","Energy,Education",Mumbai,0,0
+fc889817,Candidate_fc889817,19,Male,SC,Chennai,Bachelors,8.63,"Web Dev,Data Analysis,Machine Learning,Networking,Cloud","Finance,IT",Patna,0,1
+8114c7a3,Candidate_8114c7a3,22,Female,OBC,Patna,Diploma,8.52,"Java,C++,Data Analysis",IT,Bangalore,0,0
+27cf0b17,Candidate_27cf0b17,20,Female,ST,Kolkata,Bachelors,7.7,"C++,Java,Web Dev,Networking",IT,Chennai,1,0
+87938576,Candidate_87938576,20,Male,SC,Patna,Diploma,6.05,"Java,C++","Energy,IT",Mumbai,0,0
+89049108,Candidate_89049108,23,Female,SC,Lucknow,Bachelors,7.49,"Data Analysis,Cloud","Finance,IT",Bangalore,0,0
+4fd28265,Candidate_4fd28265,22,Female,OBC,Jaipur,Diploma,6.66,"Machine Learning,Web Dev",IT,Jaipur,1,1
+55039737,Candidate_55039737,22,Male,General,Patna,Bachelors,6.75,"SQL,Networking,Python,AI",Finance,Jaipur,1,1
+e806a88f,Candidate_e806a88f,25,Male,SC,Patna,Masters,8.6,"C++,Java,SQL","Healthcare,Energy",Jaipur,0,1
+3904993e,Candidate_3904993e,24,Male,SC,Delhi,Bachelors,6.58,"Java,Networking,Python,Machine Learning","IT,Finance",Kolkata,1,1
+05bd78ff,Candidate_05bd78ff,21,Female,General,Delhi,Bachelors,9.3,"Cloud,Python,Networking,Java",Healthcare,Bangalore,0,0
+6745178f,Candidate_6745178f,22,Female,SC,Jaipur,Masters,6.14,"Python,Cloud",Education,Mumbai,1,0
+7b35f8d4,Candidate_7b35f8d4,23,Female,SC,Jaipur,Diploma,8.58,"C++,Cloud",Finance,Chennai,1,0
+2bf32490,Candidate_2bf32490,18,Male,General,Patna,Diploma,7.62,"Networking,Web Dev","Energy,Finance",Patna,1,0
+c545ae9e,Candidate_c545ae9e,25,Male,General,Jaipur,Diploma,6.97,"AI,Java,Data Analysis,Networking,Web Dev","Energy,Finance",Chennai,1,1
+ac57ec7e,Candidate_ac57ec7e,24,Male,General,Patna,Masters,7.89,"Machine Learning,Data Analysis","Finance,Energy",Kolkata,0,0
+affe68b3,Candidate_affe68b3,19,Male,ST,Kolkata,Masters,9.8,"Python,Data Analysis,AI,Web Dev",Finance,Jaipur,1,1

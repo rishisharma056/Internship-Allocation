@@ -1,0 +1,11 @@
+internship_id,organization_name,location,sector,required_skills,capacity
+f5f121bf,Org_0,Patna,Healthcare,"C++,Cloud,AI,Machine Learning",7
+5adafbe2,Org_1,Jaipur,Finance,"AI,Web Dev,Python",4
+4e030667,Org_2,Lucknow,Energy,"Java,AI,C++",10
+bb362632,Org_3,Delhi,Healthcare,"Data Analysis,SQL,Web Dev",6
+0f2ab89b,Org_4,Bangalore,Energy,"Data Analysis,Python",10
+68bfbfd0,Org_5,Patna,IT,"Machine Learning,Data Analysis,Networking,C++",8
+103a7dcd,Org_6,Kolkata,Education,"AI,Data Analysis",7
+de781dbf,Org_7,Kolkata,Energy,"Web Dev,Python,SQL,Networking",7
+bc591497,Org_8,Mumbai,Finance,"C++,Python,SQL",10
+631d1adb,Org_9,Patna,Energy,"Cloud,AI,Web Dev",8
