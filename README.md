@@ -40,7 +40,7 @@ internship_allocation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/pm_internship_allocation.git
+git clone https://github.com/<your-username>/internship_allocation.git
 cd internship_allocation
 ```
 
